@@ -15,3 +15,10 @@
 ##### disease versus normal age-matched control subjects.
 
 ##### link of the compatetion : https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/overview
+
+## Collaborators
+#### - <a href='https://github.com/mohammad2012191'>Mohamed Eltayeb</a>
+#### - <a href='https://github.com/Mazzaalrasheed'>mazza alrasheed</a>
+#### - <a href='https://github.com/adamlquman'>Adam Logman</a>
+#### - <a href='https://www.kaggle.com/aliibrahimali'>Ali Ibrahim</a>
+#### - <a href='https://www.kaggle.com/thelastsmilodon'>Mohamed El-Nageeb</a>
