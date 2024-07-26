@@ -3,15 +3,15 @@
 <h3><b>Notebook Contents</b></h3>
 <h5> 
   
-  Feature importance <br>
+ - Feature importance <br>
   
-  Proteins Features <br>
+ - Proteins Features <br>
      
-  NPX Values <br>
+ - NPX Values <br>
   
- Shifting groups <br>
+ - Shifting groups <br>
  
- Months trends <br>
+ - Months trends <br>
 </h5>
 <h1><b>Goal of the Competition</b></h1> 
  The goal of this competition is to predict MDS-UPDR scores, which measure progression in patients with Parkinson's disease.
